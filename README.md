@@ -5,6 +5,22 @@ A lightweight and professional backup management panel for CloudPanel environmen
 CloudPanel Backup Manager enables system administrators and hosting professionals to manage manual and scheduled backups across multiple hosted websites from a centralized PHP interface.
 
 ---
+## Screenshots
+
+### Login Screen
+![Login Screen](docs/images/01backupadmin_loginscreen.png)
+
+### Edit Screen
+![Edit Screen](docs/images/02backupadmin_editscreen.png)
+
+### Backup List
+![Backup List](docs/images/03backupadmin_backuplist.png)
+
+### Two-Factor Authentication (2FA)
+![2FA](docs/images/04backupadmin_2fa.png)
+
+### List Backups
+![List Backups](docs/images/05backupadmin_listbackups.png)
 
 ## Features
 
