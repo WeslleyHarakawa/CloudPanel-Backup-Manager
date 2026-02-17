@@ -1,0 +1,9 @@
+config.php
+backups/
+logs/
+tmp/
+*.zip
+*.tar.gz
+*.sql
+!backup-admin-schema.sql
+.env
