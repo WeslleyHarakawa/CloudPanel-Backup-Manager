@@ -99,17 +99,13 @@ CloudPanel Backup Manager was created and is maintained by Weslley Harakawa.
 
 Entrepreneur and software engineer. Active CloudPanel user and builder of self-managed infrastructure projects across multiple production environments. This project was created from real-world operational needs while managing CloudPanel-based servers.
 
+
+## Support & Contact
 If this project helps you, consider supporting its development:
 
-Buy me a coffee:  
-`https://buymeacoffee.com/weslleyaharakawa`
-
-Schedule a meeting:  
-`https://meet.harakawa.tech`
-
-Connect on LinkedIn:  
-`https://www.linkedin.com/in/weslleyharakawa/`
-
+- ☕ Support the project: [Buy me a coffee](https://buymeacoffee.com/weslleyaharakawa)
+- 📅 Schedule a meeting: [meet.harakawa.tech](https://meet.harakawa.tech)
+- 💼 LinkedIn: [Weslley Harakawa](https://www.linkedin.com/in/weslleyharakawa/)
 ---
 
 This project is not affiliated with or endorsed by CloudPanel.
